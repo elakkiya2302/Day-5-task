@@ -1,0 +1,57 @@
+var myResume={
+    "myself": {
+      "name": "Elakkiya p",
+      "email": "elakkiyarajan1992@gmail.com",
+      "phone": 9042831815,
+      "degree": "B.com",
+      "location": {
+        "address": "no:577B,MIG 4th cross street,MMDA mathur,chennai",
+        "postalCode": 600068,
+        "city": "Chennai",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "website": "https://www.linkedin.com/feed/",
+          "github":"https://github.com/Elakkiya2302"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Eximio solution & services PVT LTD ",
+        "position": "process Associate",
+        "startDate": "13-06-2023",        
+        "summary": "i am the outbound caller and i got more experience in this field",
+      },
+    ],
+    "education": [
+      {
+        "institution": "Alagappa university",
+        "department": "commerce",
+        "studyType": "Not a regular student",
+        "batch start year": 2012,
+        "batch end year": 2014,
+        
+      }
+    ],
+    "skills": [
+      {
+        
+        "name": "FUll stack development",
+        "level": "beginer",
+        "project": [
+          "Till now i didn't finish any project"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,English,Hindi",
+      }
+    ],
+    
+  }
+  console.log(myResume);
+  
